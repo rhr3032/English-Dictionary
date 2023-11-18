@@ -150,3 +150,7 @@ ul .content::-webkit-scrollbar{
   margin-right: 5px;
   text-decoration: underline;
 }
+
+.rhr{
+  text-decoration: none;
+}
